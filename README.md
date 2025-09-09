@@ -1,4 +1,4 @@
-Export every single item in an Illustrator layer as a svg file with one click. I needed this for the Apple Icon Composer. ChatGPT helped.
+Export every single item in an Illustrator layer as a svg file with one click. Keep dimension and relative position of each element. I needed this for the Apple Icon Composer. ChatGPT helped.
 
 ## Usage
 
