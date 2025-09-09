@@ -1,3 +1,5 @@
+I needed this for the Apple Icon Composer. ChatGPT helped.
+
 ## Usage
 
 - Download [this file](exportLayerItemsAsSVG.jsx)
