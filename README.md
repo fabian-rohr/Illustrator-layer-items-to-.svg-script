@@ -1,4 +1,4 @@
-## Tutorial
+## Usage
 
 - Download [this file](exportLayerItemsAsSVG.jsx)
 - In Illustrator: File -> Scripts -> Other
